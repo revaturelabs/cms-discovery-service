@@ -1,2 +1,2 @@
-# cms-content-service
-Contains the content microservice for CMS
+# Discovery Service - Eureka
+### CMS Content Management Service
