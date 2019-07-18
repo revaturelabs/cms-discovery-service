@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.revature</groupId>
-	<artifactId>CMSforceMicro-Eureka</artifactId>
+	<artifactId>CMSforceMicro-Zuul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CMSforceMicro-Eureka</name>
-	<description>EurekaConfig</description>
+	<name>CMSforceMicro-Zuul</name>
+	<description>ZuulConfig</description>
 
 	<properties>
 		<java.version>1.8</java.version>
