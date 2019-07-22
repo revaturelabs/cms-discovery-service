@@ -1,6 +1,6 @@
 spring :
   application :
-   name : ANGERSERVER
+   name : eureka
     
     
 server :
